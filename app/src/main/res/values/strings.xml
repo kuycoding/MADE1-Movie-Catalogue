@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title">Name Movie</string>
+    <string name="lorem_ipsum">The true story of Forrest Tucker, from his audacious escape from San Quentin at the age of 70 to an unprecedented string of heists that confounded authorities and enchanted the public.</string>
+    <string name="runtime">Runtime</string>
+    <string name="release">Release</string>
+    <string name="text_runtime">10h 1m</string>
+    <string name="text_release">21 June 2019</string>
+    <string name="language">Language</string>
+    <string name="imdb">IMDb</string>
+    <string name="text_language">English</string>
+    <string name="text_imdb">7.1/10</string>
+    <string name="text_title">John Wick: Chapter 3 – Parabellum</string>
+    <string name="text_genre">action, romance</string>
+    <string name="overview">Overview</string>
+
+    <string-array name="data_title">
+        <item>The Old Man and The Gun</item>
+        <item>Fast and Furious: Hobbs and Shaw</item>
+        <item>The Lion King</item>
+        <item>Men in Black: International</item>
+        <item>Avengers: Endgame</item>
+        <item>Red Shoes and the Seven Dwarfs</item>
+        <item>Hello, Love, Goodbye</item>
+        <item>Angel Has Fallen</item>
+        <item>Cars</item>
+        <item>Good Boys</item>
+        <item>John Wick: Chapter 3 – Parabellum</item>
+    </string-array>
+
+    <string-array name="data_overview">
+        <item>The true story of Forrest Tucker, from his audacious escape from San Quentin at the age of 70 to an unprecedented string of heists that confounded authorities and enchanted the public. </item>
+        <item>A spinoff of The Fate of the Furious, focusing on Johnsons US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Stathams Deckard Shaw.</item>
+        <item>Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub arrival. Scar, Mufasa brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.</item>
+        <item>The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.</item>
+        <item>After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos actions and restore order to the universe once and for all, no matter what consequences may be in store.</item>
+        <item>Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.</item>
+        <item>A love story of Joy and Ethan, Filipino workers based in Hong Kong. Ethan, a bartender, is keen on romantically pursuing Joy, a domestic helper who is wholly dedicated to providing for her family.</item>
+        <item>Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.</item>
+        <item>Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the towns offbeat characters.</item>
+        <item>A group of young boys on the cusp of becoming teenagers embark on an epic quest in the San Fernando Valley to fix their broken toy before their parents get home.</item>
+        <item>Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.</item>
+    </string-array>
+
+    <array name="data_poster">
+        <item>@drawable/the_old_men</item>
+        <item>@drawable/hobbs_and_shaws</item>
+        <item>@drawable/the_lion_king</item>
+        <item>@drawable/men__in_black</item>
+        <item>@drawable/advanger_endgame</item>
+        <item>@drawable/red_shoes_and</item>
+        <item>@drawable/hello_love_goodbay</item>
+        <item>@drawable/angel_has_fallen</item>
+        <item>@drawable/cars</item>
+        <item>@drawable/good_boys</item>
+        <item>@drawable/jon_wick</item>
+    </array>
+
+    <array name="data_cover">
+        <item>@drawable/poster_the_old_men</item>
+        <item>@drawable/poster_hobbs_and_shaw</item>
+        <item>@drawable/poster_the_lion_king</item>
+        <item>@drawable/poster_man_in_black</item>
+        <item>@drawable/poster_avenger_endgame</item>
+        <item>@drawable/poster_red_shoes_and_the_seven_dwarfs</item>
+        <item>@drawable/poster_hello_love_goodbye</item>
+        <item>@drawable/poster_angel_has_fallen_bg_main</item>
+        <item>@drawable/poster_cars</item>
+        <item>@drawable/poster_good_boys</item>
+        <item>@drawable/poster_john_wick</item>
+    </array>
+
+    <string-array name="data_year">
+        <item>September 28, 2018</item>
+        <item>August 2, 2019</item>
+        <item>July 19, 2019</item>
+        <item>June 14, 2019</item>
+        <item>April 26, 2019</item>
+        <item>August 1, 2019</item>
+        <item>July 31, 2019</item>
+        <item>August 23, 2019</item>
+        <item>June 9, 2006</item>
+        <item>August 16, 2019</item>
+        <item>May 17, 2019</item>
+    </string-array>
+    
+    <string-array name="data_genre">
+        <item>comedy, crime, drama</item>
+        <item>action</item>
+        <item>adventure, animation, family, drama, action</item>
+        <item>action, adventure, science fiction, adventure</item>
+        <item>adventure, science fiction, action</item>
+        <item>crime, action, thriller</item>
+        <item>animation, romance</item>
+        <item>animation, adventure, comedy, family</item>
+        <item>comedy</item>
+        <item>crime, action, thriller</item>
+        <item>crime, action, thriller</item>
+    </string-array>
+
+    <string-array name="data_language">
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>Tagalog</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="data_imdb">
+        <item>6.7/10</item>
+        <item>6.8/10</item>
+        <item>7.1/10</item>
+        <item>5.6/10</item>
+        <item>8.6/10</item>
+        <item>6.3/10</item>
+        <item>7.8/10</item>
+        <item>6.8/10</item>
+        <item>7.1/10</item>
+        <item>6.8/10</item>
+        <item>7.8/10</item>
+    </string-array>
+    
+    <string-array name="data_runtime">
+        <item>1h 33m</item>
+        <item>2h 16m</item>
+        <item>1h 58m</item>
+        <item>1h 55m</item>
+        <item>3h 1m</item>
+        <item>1h 57m</item>
+        <item>1h 32m</item>
+        <item>2h 1m</item>
+        <item>1h 57m</item>
+        <item>1h 29m</item>
+        <item>2h 11m</item>
+    </string-array>
+</resources>
